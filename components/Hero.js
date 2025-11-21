@@ -29,7 +29,7 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a 
-              href="/Elmar_Bayramov_CV_2025_eng.pdf" 
+              href="/Elmar_Bayramov_CV_2025_eng.pdf"  
               className="btn-primary"
               target="_blank"
               rel="noopener noreferrer"
