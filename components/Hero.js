@@ -29,7 +29,7 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a 
-              href="/cv.pdf"  
+              href="https://portfolio-clean-one.vercel.app/cv.pdf"  
               className="btn-primary"
               target="_blank"
               rel="noopener noreferrer"
